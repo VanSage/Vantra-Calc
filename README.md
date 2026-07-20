@@ -3,7 +3,7 @@
 A modern and advanced calculator built using **Python**, **Jupyter Notebook**, and **ipywidgets**. It provides multiple calculator modes, an interactive user interface, and supports a wide range of mathematical operations.
 
 ---
-         
+                  
 ## ✨ Features            
                  
 * Standard Calculator
