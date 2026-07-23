@@ -6,7 +6,7 @@ A modern and advanced calculator built using **Python**, **Jupyter Notebook**, a
                   
 ## ✨ Features            
                  
-* Standard Calculator
+* Standard Calculator       
 * Scientific Calculator
 * Programmer Calculator
 * Unit Converter       
